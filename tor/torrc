@@ -197,3 +197,5 @@ DNSPort 9053
 DNSListenAddress 0.0.0.0
 AutomapHostsOnResolve 1
 AutomapHostsSuffixes .exit,.onion
+
+ExitNodes {us}
