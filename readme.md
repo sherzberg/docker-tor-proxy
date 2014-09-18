@@ -10,9 +10,9 @@ Usage
 $ docker run -i -p 9050:9050 -p 9053:9053 sherzberg/tor-proxy
 ```
 
-You can  not connect to the proxy via SOCKS5.
+You can now connect to the proxy via SOCKS5.
 
 License
 -------
 
-(See LICENSE)[/LICENSE]
+[See LICENSE](/LICENSE)
